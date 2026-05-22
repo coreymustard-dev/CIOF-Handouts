@@ -65,4 +65,4 @@ These tools cover three practical lenses you can apply to your organisation this
 
 ## Questions?
 
-[Leave space for presenter contact details]
+Corey Mustard · [corey.mustard@fundraiseup.com](mailto:corey.mustard@fundraiseup.com)
