@@ -50,6 +50,19 @@ These tools cover three practical lenses you can apply to your organisation this
 
 ---
 
+## 14-Day Test Brief
+
+**What it is:** A one-page hypothesis template to turn any finding from today into a structured test you can run this week.
+
+**How to use it:**
+1. Pick a finding from any of the three lenses
+2. Fill in the hypothesis template: *"If we [change], then [audience] will [do X], measurable in 14 days"*
+3. Run it. Read the result on day 14. Ask the next question.
+
+→ Open `14-day-test-brief.md`
+
+---
+
 ## Questions?
 
 [Leave space for presenter contact details]
