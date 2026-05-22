@@ -2,6 +2,8 @@
 
 Resources from the workshop: **"Using AI to unlock immediate impact from messy data, fix conversion friction, and move to rapid testing."**
 
+> **⬇️ Download everything:** Click the green **Code** button at the top of this page → **Download ZIP**. No GitHub account needed.
+
 These tools cover three practical lenses you can apply to your organisation this week.
 
 ---
