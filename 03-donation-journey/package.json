@@ -1,0 +1,19 @@
+{
+  "name": "nonprofit-audit",
+  "version": "1.0.0",
+  "description": "Playwright-based donation flow and tech stack auditor for nonprofit websites",
+  "main": "audit.js",
+  "bin": {
+    "nonprofit-audit": "./audit.js"
+  },
+  "scripts": {
+    "audit": "node audit.js",
+    "setup": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "1.58.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
